@@ -40,7 +40,7 @@
     "webpack": "^4.0.0 || ^5.0.0"
   },
   "dependencies": {
-    "colorette": "^2.0.10",
+    "colorette": "^2.0.17",
     "memfs": "^3.2.2",
     "mime-types": "^2.1.31",
     "range-parser": "^1.2.1",
